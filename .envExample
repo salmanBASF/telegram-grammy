@@ -1,0 +1,10 @@
+#below is lunching bot token
+TELEGRAM_TOKEN="6085531269:AAFPqUpWi-Vk83MH0wWWj1yF_7_TfdRIA1w"
+
+#NEW SUPABASE (please use this one)
+SUPABASE_URL="https://chnovudpqixojnhasukv.supabase.co"
+SUPABASE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNobm92dWRwcWl4b2puaGFzdWt2Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY5Mjc3MzA0NCwiZXhwIjoyMDA4MzQ5MDQ0fQ.NtqR4kTKFOXKrGvkG3iGlEsMi5tQk-Zj_8TMHEVBoVU"
+
+#legacy db supabase
+#SUPABASE_URL="https://nuszzdluijaipilrltrl.supabase.co"
+#SUPABASE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im51c3p6ZGx1aWphaXBpbHJsdHJsIiwicm9sZSI6ImFub24iLCJpYXQiOjE2ODczMTY4NjEsImV4cCI6MjAwMjg5Mjg2MX0.4yOPz-phNcZRcuFhL8thfa7whbsJdElY8a9fg8SH4Ag"
